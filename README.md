@@ -1,8 +1,6 @@
-# Virtual Mouse using Hand Gestures
 
-Sure, here's the README content in Markdown format:
+---
 
-```markdown
 # Virtual Mouse using Hand Gestures
 
 This Python script utilizes the MediaPipe library and OpenCV to create a virtual mouse controlled by hand gestures. It enables users to control their computer's mouse cursor, perform left and right clicks, and scroll using hand movements captured through the camera.
@@ -57,5 +55,7 @@ A smoothing factor of 0.5 is used to ensure smooth cursor movements. You can adj
 - Press 'q' to quit the program.
 - Ensure proper lighting and hand visibility for accurate detection.
 - Adjust thresholds and smoothing factor for optimal performance.
-```
 
+---
+
+Feel free to modify the content as per your requirements or add any additional information you think would be helpful.
