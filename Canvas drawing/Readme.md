@@ -3,7 +3,7 @@
 # Canvas Project
 
 This project is a simple canvas application that allows you to draw using hand gestures captured through your webcam.
-![canvas.Gif](canvas.Gif)
+![canvas.Gif](https://github.com/HAQ-NAWAZ-MALIK/My-Projects/blob/main/Canvas%20drawing/canvas.gif)
 
 ## Requirements
 
