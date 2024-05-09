@@ -1,5 +1,4 @@
-# Created by Madhumitha Kolkar 2024
-
+# Canvas project
 # Import necessary frameworks
 import cv2
 import numpy as np
