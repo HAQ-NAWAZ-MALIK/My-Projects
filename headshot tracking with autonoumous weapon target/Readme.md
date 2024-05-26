@@ -93,6 +93,7 @@ python Facetracking.py
 7. The frame is displayed with visual indicators (circles, lines, and text) showing the face position and servo angles.
 8. The loop continues until the 'q' key is pressed.
 9. Finally, the webcam connection is released, and the OpenCV window is closed.
+![wiring schematic](https://github.com/HAQ-NAWAZ-MALIK/My-Projects/assets/86514900/824a2c73-d861-404e-893b-a46d3d9f3261)
 
 Note: Make sure to have the required hardware (Arduino board and servo motors) properly connected and configured before running the `Facetracking.py` script.
 ```
