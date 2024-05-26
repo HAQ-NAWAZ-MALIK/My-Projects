@@ -1,4 +1,4 @@
-```markdown
+
 # Face Detection and Tracking with OpenCV and Arduino Integration
 
 This repository contains two Python scripts that demonstrate face detection and tracking using OpenCV and integration with an Arduino board to control servo motors.
